@@ -1,0 +1,29 @@
+.filter-toggle {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.filter-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 2px solid transparent;
+}
+
+.filter-dot.veg {
+  background: green;
+}
+
+.filter-dot.non-veg {
+  background: red;
+}
+
+.filter-dot.all {
+  background: gray;
+}
+
+.filter-dot.active {
+  border-color: black;
+}

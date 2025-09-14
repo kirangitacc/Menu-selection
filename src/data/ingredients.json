@@ -1,0 +1,812 @@
+[
+  {
+    "dishId": 1,
+    "dishName": "Kadhai Paneer 1",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 2,
+    "dishName": "Kadhai Paneer 2",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 3,
+    "dishName": "Kadhai Paneer 3",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 4,
+    "dishName": "Kadhai Paneer 4",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 5,
+    "dishName": "Kadhai Paneer 5",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 6,
+    "dishName": "Kadhai Paneer 6",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 7,
+    "dishName": "Kadhai Paneer 7",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 8,
+    "dishName": "Kadhai Paneer 8",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 9,
+    "dishName": "Kadhai Paneer 9",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 10,
+    "dishName": "Kadhai Paneer 10",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 11,
+    "dishName": "Kadhai Paneer 11",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 12,
+    "dishName": "Kadhai Paneer 12",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 13,
+    "dishName": "Kadhai Paneer 13",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 14,
+    "dishName": "Kadhai Paneer 14",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 15,
+    "dishName": "Kadhai Paneer 15",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 16,
+    "dishName": "Kadhai Paneer 16",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 17,
+    "dishName": "Kadhai Paneer 17",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 18,
+    "dishName": "Kadhai Paneer 18",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 19,
+    "dishName": "Kadhai Paneer 19",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 20,
+    "dishName": "Kadhai Paneer 20",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 21,
+    "dishName": "Kadhai Paneer 21",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 22,
+    "dishName": "Kadhai Paneer 22",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 23,
+    "dishName": "Kadhai Paneer 23",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 24,
+    "dishName": "Kadhai Paneer 24",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 25,
+    "dishName": "Kadhai Paneer 25",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 26,
+    "dishName": "Kadhai Paneer 26",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 27,
+    "dishName": "Kadhai Paneer 27",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 28,
+    "dishName": "Kadhai Paneer 28",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 29,
+    "dishName": "Kadhai Paneer 29",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  },
+  {
+    "dishId": 30,
+    "dishName": "Kadhai Paneer 30",
+    "description": "Paneer cubes in spicy onion gravy with onions and capsicum cubes.",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": "200g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1 medium"
+      },
+      {
+        "name": "Tomato Gravy",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Spices",
+        "quantity": "to taste"
+      }
+    ]
+  }
+]

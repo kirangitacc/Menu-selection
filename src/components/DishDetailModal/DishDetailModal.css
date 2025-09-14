@@ -1,0 +1,111 @@
+.dish-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.3);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.dish-modal {
+  width: 100%;
+  background: #fff;
+  border-radius: 12px 12px 0 0;
+  box-shadow: 0 -4px 12px rgba(0,0,0,0.15);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+}
+
+.dish-modal-image {
+  width: 40%;
+  height: 50%;
+  align-self: center;
+}
+
+/* Header row */
+.dish-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+}
+
+.dish-header-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.dish-modal-title {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.dish-type-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.dish-modal-action {
+  padding: 0.4rem 1rem;
+  border-radius: 10px;
+  border: 2px solid green;
+  background: white;
+  color: green;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.dish-modal-action.remove {
+  border-color: orange;
+  color: orange;
+}
+
+.dish-modal-description {
+  font-size: 14px;
+  color: #555;
+  padding: 0 1rem;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.ingredient-btn {
+  margin: 0.5rem 1rem 1rem;
+  background: none;
+  color: orange;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 14px;
+  align-self: flex-start;
+}
+
+@media (max-width: 767px) {
+  .dish-modal {
+    width: 100%;
+    height: 40%;
+    max-width: none;
+  }
+
+  .dish-modal-image {
+    width: 50%;
+    height: 40%;
+  }
+
+  .dish-modal-title {
+    font-size: 14px;
+  }
+
+  .dish-modal-description {
+    font-size: 13px;
+  }
+}
+
+

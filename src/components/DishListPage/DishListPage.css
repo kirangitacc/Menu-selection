@@ -1,0 +1,159 @@
+
+
+
+.dish-list-page {
+  padding-bottom: 100px;
+  font-family: 'Roboto';
+}
+
+.top-bar {
+  position: sticky;
+  top: 0;
+  background: white;
+    z-index: 10;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.search-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.search-bar {
+  flex: 1;
+  padding: 0.6rem 2.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.search-icon {
+  position: absolute;
+  font-size: 18px;
+  color: #666;
+  pointer-events: none;
+}
+
+.search-icon.back {
+  left: 10px;
+}
+
+.search-icon.magnify {
+  right: 10px;
+}
+
+
+.category-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.category-tabs button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #eee;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.category-tabs button.active {
+  background: #FF7F50;
+  color: white;
+}
+
+.category-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Roboto";
+  margin: 1rem 0;
+}
+
+.category-header h3 {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.food-type-toggles {
+  display: flex;
+  gap: 1rem;
+}
+
+.dish-list h4 {
+  margin: 1rem 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.food-type-toggles {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.food-toggle-icon {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: box-shadow 0.2s ease;
+}
+
+.food-toggle-icon.active {
+  box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.3);
+}
+
+
+
+@media (max-width: 767px) {
+  .category-header {
+    align-items: flex-start;
+    gap: 0.3rem;
+  }
+
+  .food-type-toggles {
+    gap: 0.75rem;
+  }
+
+  .search-bar {
+    font-size: 14px;
+  }
+
+  .category-tabs button {
+    padding:10px;
+    font-size: 11px;
+    font-weight: bold;
+
+  }
+}
+
+
+.cuisine-dropdown {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 0.5rem 0;
+}
+
+.cuisine-dropdown h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+  flex: 1; /* ensures h4 takes available space */
+  margin-left:20px;
+}
+
+.dropdown-arrow {
+  font-size: 16px;
+  color: #666;
+  margin-left: 0.5rem;
+}

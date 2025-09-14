@@ -1,0 +1,92 @@
+.dish-card {
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 4px rgba(0,0,0,0.1);
+  position: relative;
+}
+
+.dish-info {
+  flex: 1;
+}
+.food-icon {
+  width: 18px;
+  height: 18px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.dish-image-wrapper {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+.dish-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.add-btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30%;
+  background: white;
+  color: green;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 14px;
+  box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+  border:2px solid green;
+}
+
+
+.read-more {
+  color: orange;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.ingredient-btn {
+  background: none;
+  color: #f4b400;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.ingredient-icon {
+  margin-right: 4px;
+}
+.add-btn.remove {
+  color: #f4b400;
+  border:2px solid #f4b400;
+}
+
+@media (max-width: 767px) {
+  .dish-card {
+    align-items: flex-start;
+  }
+
+  .dish-image-wrapper {
+    width: 40%;
+    height: auto;
+    margin-top: 1rem;
+  }
+
+  .add-btn {
+    font-size: 13px;
+  }
+}
+
+
+
