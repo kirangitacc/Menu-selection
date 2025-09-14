@@ -5,7 +5,7 @@ A React web application to help you select dishes for your party, view details, 
 ---
 
 ## 🚀 Demo
-👉 [Live Demo](https://menu-selection-nine.vercel.app/) *(optional — add when deployed)*
+👉 [Live Demo](https://menu-selection-nine.vercel.app/)
 
 ---
 
